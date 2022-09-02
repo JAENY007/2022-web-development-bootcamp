@@ -26,9 +26,8 @@ EN(Og Lang) - [Link](https://www.udemy.com/course/100-days-of-code-web-developme
 ## Challenges
 
 - [x] `Day1` - Web Development Summary
-
-- What is Web Development?
-- 3 main Languages for Web Development
+  - What is Web Development?
+  - 3 main Languages for Web Development
 
 <br>
 
