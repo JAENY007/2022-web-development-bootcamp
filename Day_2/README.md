@@ -6,3 +6,22 @@
 
 Web Development - common use : VSCode(Visual Studio Code) **Not Visual Studio**
 
+Why using IDE
+
+- Easy to edit : grammar, syntax friendly
+- etc
+
+
+Why VSCode
+
+- grammar, tags... Extra Information
+- Automatically Complete Code -> grammar friendly
+- etc
+
+---
+
+## HTML - Hyper Text Markup Language
+
+### Markup Language?
+
+A language that is there to add extra annotation to content.
