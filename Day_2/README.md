@@ -29,3 +29,12 @@ A language that is there to add extra annotation to content.
 ### Understanding HTML Element
 
 <img src="./html-element.png">
+
+### Which HTML Elements Exist?
+
+- There are so many elements existed.
+(Because there are a lot of things you can describe)
+
+### Why HTML Elements?
+
+<img src="./why-html-elements.png">
