@@ -25,3 +25,7 @@ Why VSCode
 ### Markup Language?
 
 A language that is there to add extra annotation to content.
+
+### Understanding HTML Element
+
+<img src="./html-element.png">
